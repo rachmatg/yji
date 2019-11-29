@@ -1,0 +1,169 @@
+{
+  "states": [
+    {
+      "id": "1666",
+      "name": "Nangroe Aceh Darusalam",
+      "country_id": "102"
+    },
+    {
+      "id": "1667",
+      "name": "Bali",
+      "country_id": "102"
+    },
+    {
+      "id": "1668",
+      "name": "Bangka-Belitung",
+      "country_id": "102"
+    },
+    {
+      "id": "1669",
+      "name": "Banten",
+      "country_id": "102"
+    },
+    {
+      "id": "1670",
+      "name": "Bengkulu",
+      "country_id": "102"
+    },
+    {
+      "id": "1672",
+      "name": "Gorontalo",
+      "country_id": "102"
+    },
+    {
+      "id": "1673",
+      "name": "DKI Jakarta",
+      "country_id": "102"
+    },
+    {
+      "id": "1674",
+      "name": "Jambi",
+      "country_id": "102"
+    },
+    {
+      "id": "1675",
+      "name": "Jawa Barat",
+      "country_id": "102"
+    },
+    {
+      "id": "1676",
+      "name": "Jawa Tengah",
+      "country_id": "102"
+    },
+    {
+      "id": "1677",
+      "name": "Jawa Timur",
+      "country_id": "102"
+    },
+    {
+      "id": "1678",
+      "name": "Kalimantan Barat",
+      "country_id": "102"
+    },
+    {
+      "id": "1679",
+      "name": "Kalimantan Selatan",
+      "country_id": "102"
+    },
+    {
+      "id": "1680",
+      "name": "Kalimantan Tengah",
+      "country_id": "102"
+    },
+    {
+      "id": "1681",
+      "name": "Kalimantan Timur",
+      "country_id": "102"
+    },
+    {
+      "id": "1683",
+      "name": "Lampung",
+      "country_id": "102"
+    },
+    {
+      "id": "1684",
+      "name": "Maluku",
+      "country_id": "102"
+    },
+    {
+      "id": "1685",
+      "name": "Maluku Utara",
+      "country_id": "102"
+    },
+    {
+      "id": "1686",
+      "name": "Nusa Tenggara Barat",
+      "country_id": "102"
+    },
+    {
+      "id": "1687",
+      "name": "Nusa Tenggara Timur",
+      "country_id": "102"
+    },
+    {
+      "id": "1688",
+      "name": "Papua",
+      "country_id": "102"
+    },
+    {
+      "id": "168",
+      "name": "Papua Barat",
+      "country_id": "102"
+    },
+    {
+      "id": "1689",
+      "name": "Riau",
+      "country_id": "102"
+    },
+    {
+      "id": "1690",
+      "name": "Riau Kepulauan",
+      "country_id": "102"
+    },
+    {
+      "id": "1692",
+      "name": "Sulawesi Selatan",
+      "country_id": "102"
+    },
+    {
+      "id": "1693",
+      "name": "Sulawesi Tengah",
+      "country_id": "102"
+    },
+    {
+      "id": "1694",
+      "name": "Sulawesi Tenggara",
+      "country_id": "102"
+    },
+    {
+      "id": "1695",
+      "name": "Sulawesi Utara",
+      "country_id": "102"
+    },
+    {
+      "id": "169",
+      "name": "Sulawesi Barat",
+      "country_id": "102"
+    },
+    {
+      "id": "1696",
+      "name": "Sumatera Barat",
+      "country_id": "102"
+    },
+    {
+      "id": "1697",
+      "name": "Sumatera Selatan",
+      "country_id": "102"
+    },
+    {
+      "id": "1698",
+      "name": "Sumatera Utara",
+      "country_id": "102"
+    },
+    {
+      "id": "1699",
+      "name": "DI Yogyakarta",
+      "country_id": "102"
+    }
+  ]
+}
